@@ -1,2 +1,3 @@
-# wesleychou7-cs50ai
-HarvardX CS50 AI Projects
+# CS50 AI
+Coding projects from HarvardX's Introduction to Artificial Intelligence with Python.
+
