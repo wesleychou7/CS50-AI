@@ -1,3 +1,2 @@
 # CS50 AI
-Coding projects from HarvardX's Introduction to Artificial Intelligence with Python.
-
+My solutions to coding projects from HarvardX's Introduction to Artificial Intelligence with Python.
